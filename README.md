@@ -6,8 +6,8 @@ I am a **Ph.D. candidate** at the **University of Hong Kong (HKU)** and a resear
 
 ### 🚀 Current Status
 
--   **🎓 Ph.D. Candidate:** @HKU (ECE Dept), advised by Prof. Xiaojuan Qi.
--   **🔬 Remote Collaboration:** @Stanford University (AIMI Center), collaborating with Dr. Xiuzhe Wu and Prof. Jeanne Shen.
+-   **🎓 Ph.D. Candidate:** @HKU (ECE Dept).
+-   **🔬 Remote Collaboration:** @Stanford University (AIMI Center).
 -   **💻 Research Intern:** Alibaba Qwen Team (Tongyi, ATH).
 -   **📍 Location:** Hong Kong SAR.
 
@@ -54,7 +54,7 @@ Here are some of my recent works. You can find the full list on my [Google Schol
 ### 📫 Get in Touch
 
 -   **Email:** [hrtan@eee.hku.hk](mailto:hrtan@eee.hku.hk) 
--   **Google Scholar:** [TanHR_100](https://scholar.google.com/citations?user=TanHR_100)
+-   **Google Scholar:** [Google Haoru Tan ](https://scholar.google.com/citations?user=TanHR_100)
 
 <!--
 **hrtan/hrtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
