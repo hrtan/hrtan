@@ -31,7 +31,7 @@ My work sits at the intersection of **Data-centric AI**, **LLMs**, and **Compute
 
 ### 📝 Selected Publications (2024-2026)
 
-Here are some of my recent works. You can find the full list on my [Google Scholar](https://scholar.google.com/citations?user=TanHR_100).
+Here are some of my recent works. You can find the full list on my [Google Scholar](https://scholar.google.com/citations?user=H-q83SwAAAAJ&hl=zh-CN).
 
 #### 2026
 -   **Dynamic Important Example Mining for Reinforcement Finetuning** (*CVPR 2026*)
@@ -53,7 +53,7 @@ Here are some of my recent works. You can find the full list on my [Google Schol
 ### 📫 Get in Touch
 
 -   **Email:** [hrtan@eee.hku.hk](mailto:hrtan@eee.hku.hk) 
--   **Google Scholar:** [https://scholar.google.com/citations?user=TanHR_100](https://scholar.google.com/citations?user=TanHR_100)
+-   **Google Scholar:** [https://scholar.google.com/citations?user=H-q83SwAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=H-q83SwAAAAJ&hl=zh-CN)
 -   **WeChat:** TanHR_100
 
 <!--
