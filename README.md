@@ -24,7 +24,7 @@ My work sits at the intersection of **Data-centric AI**, **LLMs**, and **Compute
 
 ### 🏆 Selected Achievements
 
--   **Publications:** Published in top-tier conferences like **CVPR, NeurIPS, ICLR, ICCV, ACL**, and journals like **TPAMI** and **IJCV**.
+-   **Publications:** Published in top-tier conferences like **ICLR, NeurIPS, ICML, CVPR/ICCV/ACL**, and journals like **TPAMI** and **IJCV**.
 -   **Awards:** Recipient of the **NeurIPS Outstanding Reviewer (2025)** and **ICML Gold Reviewer (2026)**. 
 
 ---
