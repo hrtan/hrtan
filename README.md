@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Haoru Tan (Tan Haoru)
+### 👋 Hi there, I'm Haoru Tan (檀昊儒)
 
 I am a **Ph.D. candidate** at the **University of Hong Kong (HKU)** and a researcher passionate about making AI models smarter through better data. 
 
