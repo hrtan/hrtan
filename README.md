@@ -54,7 +54,6 @@ Here are some of my recent works. You can find the full list on my [Google Schol
 
 -   **Email:** [hrtan@eee.hku.hk](mailto:hrtan@eee.hku.hk) 
 -   **Google Scholar:** [https://scholar.google.com/citations?user=H-q83SwAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=H-q83SwAAAAJ&hl=zh-CN)
--   **WeChat:** TanHR_100
 
 <!--
 **hrtan/hrtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
