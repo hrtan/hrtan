@@ -41,15 +41,15 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 - **Dynamic Important Example Mining for Reinforcement Finetuning**  
   **Haoru Tan**, Sitong Wu, Yanfeng Chen, Yang-Tian Sun, Chirui Chang, Samm Sun, Ruobing Xie, Xiaojuan Qi  
-  *CVPR 2026* · [[arXiv]](https://arxiv.org/abs/2608.29252)
+  *CVPR 2026* 
 
 - **Dataset Distillation via Influence Matching**  
   **Haoru Tan**, Wang Wang, Sitong Wu, Xiuzhe Wu, Yang-Tian Sun, Chirui Chang, Shaofeng Zhang, Xiaojuan Qi  
-  *CVPR 2026* · [[arXiv]](https://arxiv.org/abs/2607.16859)
+  *CVPR 2026* 
 
 - **Fast Data Mixture Optimization via Gradient Descent**  
   **Haoru Tan**, Sitong Wu, Yanfeng Chen, Jun Xia, Ruobing Xie, Bin Xia, Summ Sun, Xiaojuan Qi  
-  *ICLR 2026* · [[arXiv]](https://arxiv.org/abs/2606.14971) · [[GitHub]](https://github.com/hrtan/fastmix)
+  *ICLR 2026*
 
 - **Understanding Data Influence with Differential Approximation**  
   **Haoru Tan**, Sitong Wu, Xiuzhe Wu, Wang Wang, Bo Zhao, Zeke Xie, Gui-Song Xia, Xiaojuan Qi  
