@@ -59,7 +59,27 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
   **Haoru Tan**, Xiuzhe Wu, Sitong Wu, Yanfeng Chen, Xingwu Sun, Jeanne Shen, Xiaojuan Qi  
   *NeurIPS 2026*
 
-**2024**
+- **Unlocking Token Rewards via Training-Free Reward Attribution**  
+  Sitong Wu, **Haoru Tan**\#, Bin Xia, Xichen Zhang, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
+  *CVPR 2026*
+
+- **Teacher-Guided Token Reward with Adaptive Calibration for Robust Policy Optimization in LLM Reasoning**  
+  Sitong Wu, **Haoru Tan**\#, Xichen Zhang, Bin Xia, Wenhu Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
+  *ACL 2026*
+
+- **Gradient-Decoupled Fine-Tuning for Generalizable Long Chain-of-Thought Reasoning**  
+  Sitong Wu\*, **Haoru Tan**\*, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
+  *NeurIPS 2026*
+
+- **MedVES: Visual Evidence Scaling at Test Time for VLMs in Medical VQA**  
+  Xiuzhe Wu, **Haoru Tan**\*, Barathi Subramanian, Handi Chen, Mitchell Peterson, Terry Guo, Amirhossein Kiani, Songmi Noh, Xiaojuan Qi, Jeanne Shen  
+  *ACM-MM 2026*
+
+**2024-2025**
+
+- **Robust Image-Text Data Quality Score via Three Lines of Code**  
+  Sitong Wu\*, **Haoru Tan**\*, Yukang Chen, Shaofeng Zhang, Jingyao Li, Xiaojuan Qi, Jiaya Jia  
+  *ICCV 2025*
 
 - **Data Pruning by Information Maximization**  
   **Haoru Tan**, Sitong Wu, Wei Huang, Shizhen Zhao, Xiaojuan Qi  
@@ -99,18 +119,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
   Sitong Wu, **Haoru Tan**, Xichen Zhang, Bin Xia, Xiaojuan Qi, Bei Yu, Jiaya Jia  
   *ICML 2026*
 
-- **Unlocking Token Rewards via Training-Free Reward Attribution**  
-  Sitong Wu, **Haoru Tan**^#^, Bin Xia, Xichen Zhang, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
-  *CVPR 2026*
-
-- **Teacher-Guided Token Reward with Adaptive Calibration for Robust Policy Optimization in LLM Reasoning**  
-  Sitong Wu, **Haoru Tan**^#^, Xichen Zhang, Bin Xia, Wenhu Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
-  *ACL 2026*
-
-- **Gradient-Decoupled Fine-Tuning for Generalizable Long Chain-of-Thought Reasoning**  
-  Sitong Wu\*, **Haoru Tan**\*, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
-  *NeurIPS 2026*
-
 - **DreamOmni2: Multimodal Instruction-based Editing and Generation**  
   Bin Xia, Bohao Peng, Yuechen Zhang, Junjia Huang, Jiyang Liu, Jingyao Li, **Haoru Tan**, Sitong Wu, Chengyao Wang, Yitong Wang, Xinglong Wu, Bei Yu, Jiaya Jia  
   *CVPR 2026*
@@ -123,19 +131,11 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
   Chirui Chang, Xiaoyang Lyu, Yi-Hua Huang, **Haoru Tan**, Shizhen Zhao, Yikang Ding, Jianmin Bao, Xin Tao, Pengfei Wan, Xiaojuan Qi  
   *SIGGRAPH Asia 2026*
 
-- **MedVES: Visual Evidence Scaling at Test Time for VLMs in Medical VQA**  
-  Xiuzhe Wu, **Haoru Tan**, Barathi Subramanian, Handi Chen, Mitchell Peterson, Terry Guo, Amirhossein Kiani, Songmi Noh, Xiaojuan Qi, Jeanne Shen  
-  *ACM-MM 2026*
-
 - **Bootstrapping Search Agents via High-Fidelity Environment Simulation**  
   Xichen Zhang, Ziyi He, Yinghao Zhu, Sitong Wu, Shaozuo Yu, Meng Chu, Wenhu Zhang, **Haoru Tan**, Jiaya Jia  
   *ACL 2026*
 
 **2025**
-
-- **Robust Image-Text Data Quality Score via Three Lines of Code**  
-  Sitong Wu\*, **Haoru Tan**\*, Yukang Chen, Shaofeng Zhang, Jingyao Li, Xiaojuan Qi, Jiaya Jia  
-  *ICCV 2025*
 
 - **Equipping Vision Foundation Model with Mixture of Experts for OOD Detection**  
   Shizhen Zhao, Jiahui Liu, Xin Wen, **Haoru Tan**, Xiaojuan Qi  
