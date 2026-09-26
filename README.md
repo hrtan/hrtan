@@ -75,16 +75,16 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 - **Gradient-Decoupled Fine-Tuning for Generalizable Long Chain-of-Thought Reasoning**  
   Sitong Wu\*, **Haoru Tan**\*, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
-  *NeurIPS 2026*
-
-- **Data Pruning by Information Maximization**  
-  **Haoru Tan**, Sitong Wu, Wei Huang, Shizhen Zhao, Xiaojuan Qi  
-  *ICLR 2024*
+  *NeurIPS 2025*
 
 - **Robust Image-Text Data Quality Score via Three Lines of Code**  
   Sitong Wu\*, **Haoru Tan**\*, Yukang Chen, Shaofeng Zhang, Jingyao Li, Xiaojuan Qi, Jiaya Jia  
   *ICCV 2025*
-  
+
+
+- **Data Pruning by Information Maximization**  
+  **Haoru Tan**, Sitong Wu, Wei Huang, Shizhen Zhao, Xiaojuan Qi  
+  *ICLR 2024*
 
 - **Ensemble Quadratic Assignment Network for Graph Matching**  
   **Haoru Tan**, Chuang Wang, Sitong Wu, Xuyao Zhang, Fei Yin, Chenglin Liu  
