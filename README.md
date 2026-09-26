@@ -55,10 +55,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
   **Haoru Tan**, Sitong Wu, Xiuzhe Wu, Wang Wang, Bo Zhao, Zeke Xie, Gui-Song Xia, Xiaojuan Qi  
   *IEEE T-PAMI 2026*
 
-- **Understanding Data Influence in Reinforcement Finetuning**  
-  **Haoru Tan**, Xiuzhe Wu, Sitong Wu, Yanfeng Chen, Xingwu Sun, Jeanne Shen, Xiaojuan Qi  
-  *NeurIPS 2026*
-
 - **Unlocking Token Rewards via Training-Free Reward Attribution**  
   Sitong Wu, **Haoru Tan**\#, Bin Xia, Xichen Zhang, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
   *CVPR 2026*
@@ -67,23 +63,28 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
   Sitong Wu, **Haoru Tan**\#, Xichen Zhang, Bin Xia, Wenhu Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
   *ACL 2026*
 
-- **Gradient-Decoupled Fine-Tuning for Generalizable Long Chain-of-Thought Reasoning**  
-  Sitong Wu\*, **Haoru Tan**\*, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
-  *NeurIPS 2026*
-
 - **MedVES: Visual Evidence Scaling at Test Time for VLMs in Medical VQA**  
   Xiuzhe Wu, **Haoru Tan**\*, Barathi Subramanian, Handi Chen, Mitchell Peterson, Terry Guo, Amirhossein Kiani, Songmi Noh, Xiaojuan Qi, Jeanne Shen  
   *ACM-MM 2026*
 
 **2024-2025**
 
-- **Robust Image-Text Data Quality Score via Three Lines of Code**  
-  Sitong Wu\*, **Haoru Tan**\*, Yukang Chen, Shaofeng Zhang, Jingyao Li, Xiaojuan Qi, Jiaya Jia  
-  *ICCV 2025*
+- **Understanding Data Influence in Reinforcement Finetuning**  
+  **Haoru Tan**, Xiuzhe Wu, Sitong Wu, Yanfeng Chen, Xingwu Sun, Jeanne Shen, Xiaojuan Qi  
+  *NeurIPS 2025*
+
+- **Gradient-Decoupled Fine-Tuning for Generalizable Long Chain-of-Thought Reasoning**  
+  Sitong Wu\*, **Haoru Tan**\*, Jingyao Li, Shaofeng Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia  
+  *NeurIPS 2026*
 
 - **Data Pruning by Information Maximization**  
   **Haoru Tan**, Sitong Wu, Wei Huang, Shizhen Zhao, Xiaojuan Qi  
   *ICLR 2024*
+
+- **Robust Image-Text Data Quality Score via Three Lines of Code**  
+  Sitong Wu\*, **Haoru Tan**\*, Yukang Chen, Shaofeng Zhang, Jingyao Li, Xiaojuan Qi, Jiaya Jia  
+  *ICCV 2025*
+  
 
 - **Ensemble Quadratic Assignment Network for Graph Matching**  
   **Haoru Tan**, Chuang Wang, Sitong Wu, Xuyao Zhang, Fei Yin, Chenglin Liu  
