@@ -114,8 +114,16 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 #### Co-Authored Papers
 
-**2026**
+**2026** 
 
+- **Historical Relative Policy Optimization for Bootstrapping LLM Reasoning**  
+  Sitong Wu, **Haoru Tan**, Bei Yu, Xiaojuan Qi, Jiaya Jia  
+  *NeurIPS 2026*
+
+- **Accelerating Reinforcement Learning for LongCoT Reasoning Models**  
+  Sitong Wu, **Haoru Tan**, Bin Xia, Bei Yu, Xiaojuan Qi, Jiaya Jia  
+  *NeurIPS 2026*
+  
 - **Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning**  
   Sitong Wu, **Haoru Tan**, Xichen Zhang, Bin Xia, Xiaojuan Qi, Bei Yu, Jiaya Jia  
   *ICML 2026*
