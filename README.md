@@ -37,8 +37,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 #### First-Author & Lead Papers
 
-**2026**
-
 - **Dynamic Important Example Mining for Reinforcement Finetuning**  
   **Haoru Tan**, Sitong Wu, Yanfeng Chen, Yang-Tian Sun, Chirui Chang, Samm Sun, Ruobing Xie, Xiaojuan Qi  
   *CVPR 2026* 
@@ -65,9 +63,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 - **MedVES: Visual Evidence Scaling at Test Time for VLMs in Medical VQA**  
   Xiuzhe Wu, **Haoru Tan**\*, Barathi Subramanian, Handi Chen, Mitchell Peterson, Terry Guo, Amirhossein Kiani, Songmi Noh, Xiaojuan Qi, Jeanne Shen  
-  *ACM-MM 2026*
-
-**2024-2025**
+  *ACM-MM 2026* 
 
 - **Understanding Data Influence in Reinforcement Finetuning**  
   **Haoru Tan**, Xiuzhe Wu, Sitong Wu, Yanfeng Chen, Xingwu Sun, Jeanne Shen, Xiaojuan Qi  
@@ -81,7 +77,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
   Sitong Wu\*, **Haoru Tan**\*, Yukang Chen, Shaofeng Zhang, Jingyao Li, Xiaojuan Qi, Jiaya Jia  
   *ICCV 2025*
 
-
 - **Data Pruning by Information Maximization**  
   **Haoru Tan**, Sitong Wu, Wei Huang, Shizhen Zhao, Xiaojuan Qi  
   *ICLR 2024*
@@ -92,29 +87,21 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 - **Sample-wise Affinity Consistency for Vision-Language Pre-training**  
   **Haoru Tan**\*, Sitong Wu\*, Zhuotao Tian, Yukang Chen, Xiaojuan Qi, Jiaya Jia  
-  *CVPR 2024*
-
-**2023**
+  *CVPR 2024* 
 
 - **Data Pruning via Moving-one-Sample-out**  
   **Haoru Tan**, Sitong Wu, Fei Du, Zhibin Wang, Fan Wang, Xiaojuan Qi  
-  *NeurIPS 2023*
-
-**2022**
+  *NeurIPS 2023* 
 
 - **Semantic Difference Convolution for Semantic Segmentation**  
   **Haoru Tan**, Sitong Wu, Jimin Pi  
-  *NeurIPS 2022*
-
-**2021**
+  *NeurIPS 2022* 
 
 - **Proxy Graph Matching with Proximal Matching Networks**  
   **Haoru Tan**, Chuang Wang, Sitong Wu, Tieqiang Wang, Chenglin Liu  
   *AAAI 2021*
 
-#### Co-Authored Papers
-
-**2026** 
+#### Co-Authored Papers 
 
 - **Historical Relative Policy Optimization for Bootstrapping LLM Reasoning**  
   Sitong Wu, **Haoru Tan**, Bei Yu, Xiaojuan Qi, Jiaya Jia  
@@ -142,9 +129,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 - **Bootstrapping Search Agents via High-Fidelity Environment Simulation**  
   Xichen Zhang, Ziyi He, Yinghao Zhu, Sitong Wu, Shaozuo Yu, Meng Chu, Wenhu Zhang, **Haoru Tan**, Jiaya Jia  
-  *ACL 2026*
-
-**2025**
+  *ACL 2026* 
 
 - **Equipping Vision Foundation Model with Mixture of Experts for OOD Detection**  
   Shizhen Zhao, Jiahui Liu, Xin Wen, **Haoru Tan**, Xiaojuan Qi  
@@ -160,21 +145,15 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=H-q83SwA
 
 - **Mixture Compressor for Mixture-of-Experts LLMs Gains More**  
   Wei Huang, Yue Liao, Jianhui Liu, Ruifei He, **Haoru Tan**, Shiming Zhang, Hongsheng Li, Si Liu, Xiaojuan Qi  
-  *ICLR 2025*
-
-**2024**
+  *ICLR 2025* 
 
 - **Debiasing Text-to-Image Diffusion Models**  
   Ruifei He, Chuhui Xue, **Haoru Tan**, Wenqing Zhang, Yingchen Yu, Song Bai, Xiaojuan Qi  
-  *ACM-MM 2024*
-
-**2023**
+  *ACM-MM 2024* 
 
 - **Vertical Layering of Quantized Neural Networks for Heterogeneous Inference**  
   Hai Wu, Ruifei He\*, **Haoru Tan**\*, Xiaojuan Qi, Kaibin Huang  
-  *IEEE T-PAMI 2023*
-
-**2021**
+  *IEEE T-PAMI 2023* 
 
 - **Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention**  
   Sitong Wu, Tianyi Wu, **Haoru Tan**, Guodong Guo  
